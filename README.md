@@ -41,16 +41,16 @@ This feature gives the value of life Expectancy at birth total for United States
 (Unit: Years)
 Source of data: https://fred.stlouisfed.org/series/SPDYNLE00INUSA
 
-9.	MORTGAGE_RATE_US:
+10.	MORTGAGE_RATE_US:
 This feature gives the values of mortgage average rate in United States 
 (Unit: Percent)
 Source of data: https://fred.stlouisfed.org/series/MORTGAGE30US
 
-10.	CPI:
+11.	CPI:
 The CPI stands for Consumer Price Index it measures change over time in the prices paid by consumers for a representative basket of goods and services.
 Source of data: https://fred.stlouisfed.org/series/CPIHOSSL
 
-11.	Home_price_Index:
+12.	Home_price_Index:
 This feature basically serves the purpose of target variable in the dataset
 Source of data: https://fred.stlouisfed.org/series/CSUSHPISA
  
