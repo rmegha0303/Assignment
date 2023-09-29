@@ -36,7 +36,7 @@ Source of data: https://fred.stlouisfed.org/series/CXUSTATETAXLB1702M
 This feature gives the values of total construction spending in USA during the observation date (Unit: Millions of Dollars)
 Source of data: https://fred.stlouisfed.org/series/TTLCONS 
 
-9	Life_expectancy:
+9.	Life_expectancy:
 This feature gives the value of life Expectancy at birth total for United States 
 (Unit: Years)
 Source of data: https://fred.stlouisfed.org/series/SPDYNLE00INUSA
